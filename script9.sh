@@ -1,2 +1,5 @@
 #!/bin/bash
-This is script number 9
+hello(){
+    echo "Hello Linux"
+}
+hello
