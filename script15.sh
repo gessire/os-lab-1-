@@ -1,2 +1,6 @@
 #!/bin/bash
-This is script number 15
+git add . 
+git commit -m "Add Bash Scripts "
+git branch -M main
+git push 
+git status
